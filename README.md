@@ -4,7 +4,7 @@
 US01 - Como atleta quero poder me inscrever em competições a partir do sistema.\
 US02 - Como adiministrador quero poder cadastrar competições no sistema.\
 US03 - Como adiministrador quero poder alocar locais das competições de forma a evitar conflitos de horário.\
-US04 - Como atleta quero poder visualizar os resultados das competições.\
+US04 - Como atleta quero poder visualizar os resultados das competições.
 
 ## Diagrama de Caso de Uso
 ![Diagrama de Caso de Uso](/imagens/diagrama-de-caso-de-uso.png)
