@@ -1,7 +1,16 @@
 # Sistema de Gestão de Olimpíadas
-Alunos:
-Luiz Felipe Campos de Morais
-Marcus Vínicius Carvalho de Oliveira
+
+Projeto criado para realização do projeto **Sistema de Gestão de Olimpíadas** da disciplina Projeto de Software. O projeto visa a idealização de um software capaz de atender as regras de negócio definidas, afim de gerenciar um sistema de olimpíadas.
+
+## Alunos integrantes da equipe
+
+* Luiz Felipe Campos de Morais
+* Marcus Vinícius Carvalho de Oliveira
+
+## Professores responsáveis
+
+* João Paulo Carneiro Aramuni
+
 
 ## Histórias de Usuário
 US01 - Como atleta quero poder me inscrever em competições a partir do sistema.\
