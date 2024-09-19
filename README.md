@@ -1,4 +1,7 @@
 # Sistema de Gestão de Olimpíadas
+Alunos:
+Luiz Felipe Campos de Morais
+Marcus Vínicius Carvalho de Oliveira
 
 ## Histórias de Usuário
 US01 - Como atleta quero poder me inscrever em competições a partir do sistema.\
@@ -11,10 +14,10 @@ US05 - Como atleta quero poder visualizar os resultados das competições.
 ![Diagrama de Caso de Uso](/imagens/diagrama-de-caso-de-uso.png)
 
 # Diagrama de Classes e Pacotes
-
+![Diagrama de Classes e Pacotes](/imagens/diagrama-de-classes.png)
 
 # Diagrama de Componentes
-
+![Diagrama de Componentes](/imagens/diagrama-de-componentes.png)
 
 # Diagrama de Implantação
 ![Diagrama de Implantação](/imagens/diagrama-de-implantacao.png)
